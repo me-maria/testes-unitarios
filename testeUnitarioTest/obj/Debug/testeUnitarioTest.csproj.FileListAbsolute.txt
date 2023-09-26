@@ -1,0 +1,17 @@
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\bin\Debug\testeUnitarioTest.dll
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\bin\Debug\testeUnitarioTest.pdb
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\bin\Debug\testeUnitario.dll
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\bin\Debug\testeUnitario.pdb
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\obj\Debug\testeUnitarioTest.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\obj\Debug\testeUnitarioTest.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\obj\Debug\testeUnitarioTest.csproj.CopyComplete
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\obj\Debug\testeUnitarioTest.dll
+C:\Users\maria\OneDrive\Documentos\projetosTestesUnitarios\testeUnitarioTest\obj\Debug\testeUnitarioTest.pdb
