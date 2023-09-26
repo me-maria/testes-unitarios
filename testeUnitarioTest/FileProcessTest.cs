@@ -7,17 +7,27 @@ namespace testeUnitarioTest
     [TestClass]
     public class FileProcessTest
     {
-     
-            [TestMethod] // Teste de verificação de existência de arquivo 
-            public void FileNameDoesExist()
-            {
-                FileProcess fp = new FileProcess(); 
+        [TestMethod] //verifica existencia de arquivo
+        public void FileNameDoesExists()
+        {
+            FileProcess fp = new FileProcess();
+            bool fromCall;
 
-                bool fromcall = fp.FileExists(@"C:\Users\maria\OneDrive\Documentos\atividades\api.txt"); 
+            fromCall = fp.FileExists(@"C:\Windows\EDT.txt");
 
-                Assert.IsTrue(fromcall); 
-            }
+            Assert.IsTrue(fromCall);
+        }
 
+        [TestMethod] //verifica não existencia de arquivos 
+        public void FileNameDoesNotExists()
+        {
+            FileProcess fp = new FileProcess();
+            bool fromCall;
 
+            fromCall = fp.FileExists(@"C:\Windows\EDT.txt");
+
+            Assert.IsFalse(fromCall);
+        }
+  
     }
 }
