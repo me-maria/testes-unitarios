@@ -29,13 +29,29 @@ namespace testeUnitarioTest
             Assert.IsFalse(fromCall);
         }
 
-        [TestMethod] // verifica se uma exceção ArgumentNullException é lançada quando o nome do arquivo é nulo ou vazio.
+        [TestMethod] //verifica se uma exceção ArgumentNullException é lançada quando o nome do arquivo é nulo ou vazio.
         [ExpectedException(typeof(ArgumentNullException))]
         public void FileNameNullOrEmpty_ThrowArgumentNullException()
         {
             FileProcess fp = new FileProcess();
 
             fp.FileExists("");
+        }
+
+        [TestMethod]//(com try catch)verifica se o nome do arquivo é nulo ou vazio.
+        public void FileNameNullOrEmptyThrowsArgumentNullException_UsingTryCatch()
+        {
+            FileProcess fp = new FileProcess(); 
+
+            try
+            {
+                fp.FileExists(""); 
+            }
+            catch
+            {
+                return;
+            }
+            Assert.Fail("Falha");
         }
 
     }
